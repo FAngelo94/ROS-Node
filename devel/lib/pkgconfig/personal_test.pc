@@ -1,8 +1,0 @@
-prefix=/home/fangelo94/catkin_ws/devel
-
-Name: personal_test
-Description: Description of personal_test
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

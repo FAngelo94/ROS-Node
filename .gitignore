@@ -1,0 +1,7 @@
+catkin_solution/build/
+catkin_solution/devel/
+
+bazel_solution/bazel-bin/
+bazel_solution/bazel-out/
+bazel_solution/bazel-testlogs/
+bazel_solution/bazel-bazel_solution/
